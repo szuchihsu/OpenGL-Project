@@ -1,0 +1,11 @@
+﻿  glad.c
+  main.cpp
+C:\Users\Charlie\Desktop\CG-AR\Art Gallery\main.cpp(149,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Charlie\Desktop\CG-AR\Art Gallery\main.cpp(150,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Charlie\Desktop\CG-AR\Art Gallery\main.cpp(154,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Charlie\Desktop\CG-AR\Art Gallery\main.cpp(155,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Charlie\Desktop\CG-AR\Art Gallery\main.cpp(156,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Charlie\Desktop\CG-AR\Art Gallery\main.cpp(157,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Charlie\Desktop\CG-AR\Art Gallery\main.cpp(262,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Solar System Simulation.vcxproj -> C:\Users\Charlie\Desktop\CG-AR\Art Gallery\x64\Debug\Art Gallery.exe
